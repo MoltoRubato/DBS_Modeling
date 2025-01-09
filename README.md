@@ -36,4 +36,7 @@ The database supports various queries including:
 
 ## Contributors
 - Ryan Huang
-- INFO20003 Teaching Team (Question Provider)
+- University of Melbourne INFO20003 Teaching Team (Question Provider)
+
+## License
+This project is for academic purposes under the University of Melbourne's INFO20003 Database Systems course.
