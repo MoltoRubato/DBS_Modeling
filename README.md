@@ -35,7 +35,7 @@ The database supports various queries including:
 - **MySQL Workbench** for database modeling.
 
 ## Contributors
-- Ryan Huang
+- Kerui Huang
 - University of Melbourne INFO20003 Teaching Team (Question Provider)
 
 ## License
